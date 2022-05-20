@@ -72,28 +72,32 @@ for i in range(0,9):
 
 ### Original Image and Grayscale Image
 
-![image](https://user-images.githubusercontent.com/74660507/169488404-f744eafb-5f36-40df-a86a-639ac6d11fef.png)
+![Screenshot_653](https://user-images.githubusercontent.com/75235455/169496333-8e2526b8-8206-4f49-99a4-f7bb85939d93.png)
 
 ### Global Thresholding
-![image](https://user-images.githubusercontent.com/74660507/169488559-3885518c-eee9-4081-85dd-80fab1c5b415.png)
 
-![image](https://user-images.githubusercontent.com/74660507/169488714-5a7cc57a-0c3c-46d5-a104-b94f4f0d35b1.png)
+![Screenshot_654](https://user-images.githubusercontent.com/75235455/169496436-acbb39f1-5722-4f41-929c-0eeca3d5bf8b.png)
 
-![image](https://user-images.githubusercontent.com/74660507/169489007-6c3e25a5-60bb-43c5-a24a-601f3360ffd9.png)
+![Screenshot_655](https://user-images.githubusercontent.com/75235455/169496452-4b1d7ed7-3f3f-443c-8eaa-e03ecb303dce.png)
 
-![image](https://user-images.githubusercontent.com/74660507/169489142-ee47baf3-9068-48a3-b951-027022b8b7fd.png)
+![Screenshot_656](https://user-images.githubusercontent.com/75235455/169496473-3820f17d-4be5-4b11-a1b6-e714618db679.png)
 
-![image](https://user-images.githubusercontent.com/74660507/169489357-9d801fac-0d1b-4a2e-9552-124ae80ab28e.png)
+![Screenshot_657](https://user-images.githubusercontent.com/75235455/169496487-1d0e4b5a-276f-4e0e-815e-5e1903b308a4.png)
+
+![Screenshot_658](https://user-images.githubusercontent.com/75235455/169496503-ec96bf3f-27d3-4e58-8e1a-63f513dd34a3.png)
+
 
 ### Adaptive Thresholding
 
-![image](https://user-images.githubusercontent.com/74660507/169489509-bb25349c-9e10-4b43-89f6-07ae330ea2f3.png)
+![Screenshot_659](https://user-images.githubusercontent.com/75235455/169496599-eb698ae2-eb45-4164-b7db-f06dfdc7fb27.png)
 
-![image](https://user-images.githubusercontent.com/74660507/169489676-46afb2f6-eada-4502-8d3e-73425dd74903.png)
+![Screenshot_660](https://user-images.githubusercontent.com/75235455/169496625-e0d707a5-edeb-4956-b585-cb598cd3ac11.png)
+
 
 ### Optimum Global Thesholding using Otsu's Method
 
-![image](https://user-images.githubusercontent.com/74660507/169489816-9630e0f4-a80a-4445-b047-93da4e4f4847.png)
+![Screenshot_661](https://user-images.githubusercontent.com/75235455/169496683-58d6f8ca-3f4d-4931-8075-d49b3bf0585b.png)
+
 
 ## RESULT:
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
