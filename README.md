@@ -26,6 +26,10 @@ Use Otsu's method to segment the image.
 ### Step 6:
 Display the results.
 
+</br>
+</br>
+</br>
+
 ## PROGRAM:
 ```python
 # Load the necessary packages
